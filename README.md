@@ -4,7 +4,7 @@ This repo is the official implementation of the paper "CAN: Context-aware Alignm
 # Project structure
 The directory structure of the project looks like this:
 
-'''
+```
 ├── README.md            <- The top-level README for developers using this project.
 │
 ├── config               <- configuration 
@@ -36,4 +36,4 @@ The directory structure of the project looks like this:
 │── test.py <- script for testing from a model
 │
 └── LICENSE              <- Open-source license if one is chosen
-'''
+```
