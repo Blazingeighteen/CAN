@@ -1,7 +1,7 @@
 # CAN
 This repo is the official implementation of the paper "CAN: Context-aware Alignment Network for Weakly Supervised Referring Expression Comprehension"
 
-Project structure
+# Project structure
 The directory structure of the project looks like this:
 
 ├── README.md            <- The top-level README for developers using this project.
