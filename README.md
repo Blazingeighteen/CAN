@@ -1,6 +1,6 @@
 # CAN
 This repo is the official implementation of the paper "CAN: Context-aware Alignment Network for Weakly Supervised Referring Expression Comprehension"
-
+![mahua](mahua-logo.jpg)
 # Project structure
 The directory structure of the project looks like this:
 
