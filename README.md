@@ -1,6 +1,6 @@
 # CAN
-This repo is the official implementation of the paper "CAN: Context-aware Alignment Network for Weakly Supervised Referring Expression Comprehension"
-![pic](pic2.png)
+This repo is the official implementation of the paper "CAN: Context-aware Alignment Network for Weakly Supervised Referring Expression Comprehension"![image](https://github.com/Blazingeighteen/CAN/blob/main/pic2.png)
+
 # Project structure
 The directory structure of the project looks like this:
 
