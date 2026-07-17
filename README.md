@@ -1,5 +1,6 @@
 # CAN
 This repo is the official implementation of the paper "CAN: Context-aware Alignment Network for Weakly Supervised Referring Expression Comprehension"![image](https://github.com/Blazingeighteen/CAN/blob/main/pic2.png)
+Our code will be available after be accepted.
 
 # Project structure
 The directory structure of the project looks like this:
@@ -11,7 +12,7 @@ The directory structure of the project looks like this:
 │
 ├── data
 │   ├── anns            <- note: cat_name.json is for prompt template usage
-│
+│   ├── images
 ├── datasets               <- dataloader file
 │
 │
@@ -24,10 +25,10 @@ The directory structure of the project looks like this:
 │   ├── triplet_loss.py               <- triplet_loss
 │   │
 │   │
-│   ├── CAN           <- most important files for DViN model implementations
+│   ├── CAN           <- most important files for CAN model implementations
 │   │   ├── __init__.py
 │   │   ├── head.py   <- for anchor-prompt contrastive loss
-|   |   ├── net.py    <- main code for DViN model
+|   |   ├── net.py    <- main code for CAN model
 │   │
 │   │
 ├── utils  <- hepler functions
@@ -38,4 +39,4 @@ The directory structure of the project looks like this:
 └── LICENSE              <- Open-source license if one is chosen
 ```
 
-Our code will be available after be accepted.
+
